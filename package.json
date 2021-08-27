@@ -1,6 +1,7 @@
 {
-  "name": "aaaa",
+  "name": "usama-hamid.github.io",
   "version": "1.0.0",
+<<<<<<< HEAD
   "description": "A Vue.js project",
   "author": "Usama Hamid",
   "private": true,
@@ -54,14 +55,25 @@
     "webpack-bundle-analyzer": "^2.9.0",
     "webpack-dev-server": "^2.9.1",
     "webpack-merge": "^4.1.0"
+=======
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "engines": {
-    "node": ">= 6.0.0",
-    "npm": ">= 3.0.0"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Usama-hamid/usama-hamid.github.io.git"
+>>>>>>> parent of b061d13 (first commit)
   },
-  "browserslist": [
-    "> 1%",
-    "last 2 versions",
-    "not ie <= 8"
-  ]
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Usama-hamid/usama-hamid.github.io/issues"
+  },
+  "homepage": "https://github.com/Usama-hamid/usama-hamid.github.io#readme",
+  "dependencies": {
+    "nodemon": "^2.0.12"
+  }
 }
